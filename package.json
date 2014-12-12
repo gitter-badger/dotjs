@@ -1,0 +1,27 @@
+{
+  "name": "dotjs",
+  "version": "0.0.0",
+  "description": "Tons of useful apps",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "deployd": ">= 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hybridlabsco/dotjs.git"
+  },
+  "keywords": [
+    "dotjs",
+    "apps",
+    "team",
+    "collaboration"
+  ],
+  "author": "Danny Viasus Avila ( Danjavia )",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hybridlabsco/dotjs/issues"
+  },
+  "homepage": "https://github.com/hybridlabsco/dotjs"
+}
