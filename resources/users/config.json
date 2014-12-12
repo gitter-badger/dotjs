@@ -1,0 +1,45 @@
+{
+	"type": "UserCollection",
+	"properties": {
+		"email": {
+			"name": "email",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "email",
+			"order": 0
+		},
+		"todos": {
+			"name": "todos",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "todos",
+			"order": 1
+		},
+		"projects": {
+			"name": "projects",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "projects",
+			"order": 2
+		},
+		"orgs": {
+			"name": "orgs",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "orgs",
+			"order": 3
+		},
+		"files": {
+			"name": "files",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "files",
+			"order": 4
+		}
+	}
+}
